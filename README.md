@@ -1,5 +1,5 @@
-
-# Releasing in November 2021
+**Please don't use Atarbals-Modern-Antivirus until main version is released.**
+# Atarbals-Modern-Antivirus Releasing in November 2021
 <p align="center">
   <img width="300" src="https://user-images.githubusercontent.com/90396120/134889303-1b835d90-7e62-4060-9e0f-8e3a3885778e.png" alt="logo">
   <h1 align="center" style="margin: 0 auto 0 auto;">Atarbals Mordern Antivirus</h1>
