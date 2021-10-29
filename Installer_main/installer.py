@@ -350,7 +350,7 @@ def submit():
 
 	sender_email = "harshantivirus2@gmail.com"
 	receiver_email = email
-	password = "@Harsh2007"
+	password = "@Harsh123"
 
 	message = MIMEMultipart("alternative")
 	message["Subject"] = "Ki-Lo antivirus 2.0 Subscription"
