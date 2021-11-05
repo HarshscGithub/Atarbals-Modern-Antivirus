@@ -52,7 +52,7 @@ ___
 **Atarbals Modern Antivirus** is licensed under the
 **GNU General Public License v3.0**
 
-[View Here.](https://github.com/ParthJadhav/Tkinter-Designer/blob/master/LICENSE)
+[View Here.](https://github.com/HarshscGithub/Atarbals-Modern-Antivirus/blob/Main/LICENSE)
 
 | Permissions | Limitations | Conditions
 | --- | --- | --- 
