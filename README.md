@@ -1,4 +1,5 @@
-**Please don't use Atarbals-Modern-Antivirus until main version is released.**
+# Releasing 1st Beta version of Atarbals Mordern Antivirus
+
 # Atarbals Modern Antivirus Releasing in late 2021
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/90396120/140484198-a5ea4094-42e3-4ee1-8ecb-999e0b6189cf.png" alt="logo">
