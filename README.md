@@ -12,10 +12,6 @@
  </p>
 
 
-
-___ 
-## 🌐 Visit my website at : https://harshscgithub.wixsite.com/home
-
 ___ 
 
 ## 💡 Introduction
@@ -31,7 +27,8 @@ This is whole new antivirus. This antivirus has modern UI and is written in Pyth
   <img width="500" alt="Screenshot 2021-10-29 at 3 21 50 PM" src="https://user-images.githubusercontent.com/90396120/139414871-bec599c1-4c3d-45b5-bae9-c9921d3b999b.png">
  </p>
 
-
+___ 
+## 🌐 Visit my website at : https://harshscgithub.wixsite.com/home
 ___
 
 ## ⚡️ Installing & Using AtarBals Mordern Antivirus
