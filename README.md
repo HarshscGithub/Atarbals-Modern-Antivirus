@@ -1,4 +1,4 @@
-# Releasing 1st Beta version of Atarbals Mordern Antivirus
+# Releasing 2nd Beta version of Atarbals Mordern Antivirus
 
 **Atarbals Modern Antivirus Releasing in late 2021**
 <p align="center">
