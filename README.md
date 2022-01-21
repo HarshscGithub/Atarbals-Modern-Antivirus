@@ -14,6 +14,10 @@
 
 
 ___ 
+## Requirments to work properly
+
+`pip install pillow`
+`python -m smtpd -c DebuggingServer -n localhost:1025`
 
 ## 💡 Introduction
 I am Harsh Chaudhari. I was born in 2007 in India. I started HarshscGithub project on GitHub at 9 of November 2020. I started this project with my first launch of Dashing AntiVirus in December 2021. Dashing Antivirus was basically just an idea of Ki-Lo Antivirus but I had no intention of making Ki-Lo Antivirus. But Dashing Antivirus was too poor so after Ki-Lo Antivirus 2.5 launch Dashing Antivirus was inserted in Ki-Lo Antivirus Repository. Now I have been talking about Ki-Lo Antivirus so let me tell something about it. After Dashing Antivirus Launch (Dec 2020) I went offline because of no interest in Github then came online again in 18 July 2021 because of sudden intrest in Kilo-Antivirus 1.0 then 1.5 ... last version Kilo-Antivirus 2.5. 
