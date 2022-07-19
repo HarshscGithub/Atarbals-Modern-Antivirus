@@ -1,7 +1,16 @@
-# Releasing 2nd Beta version of Atarbals Mordern Antivirus
+## Sorry Guys I have stopped the development of this project because I am completing my school syllabus and other olympiad stuff.
+## I will again start this project with real antivirus that can scan virus and remove virus(if permission given for storage) some months or years later.
+## If any one needs support or to Contibute to my project contact me at my email : harshscgithub@gmail.com or harshsc2007@gmail.com
+## Message me if anyone need to contibute at above email.
+## See you guys!
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 ## This is not a real antivirus it doesn't scan any virus. It is only UI game/prank just for entertainment purpose.
 
+# This is 2nd Beta version of Atarbals Mordern Antivirus
 **Atarbals Modern Antivirus Releasing in late 2021**
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/90396120/140484198-a5ea4094-42e3-4ee1-8ecb-999e0b6189cf.png" alt="logo">
