@@ -2,7 +2,7 @@
 ## I will again start this project with real antivirus that can scan virus and remove virus(if permission given for storage) some months or years later.
 ## If any one needs support or to Contibute to my project contact me at my email : harshscgithub@gmail.com or harshsc2007@gmail.com
 ## Message me if anyone need to contibute at above email.
-## See you guys!
+## See you soon guys !
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
