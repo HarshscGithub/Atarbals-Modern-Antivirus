@@ -1,16 +1,13 @@
-## Sorry Guys I have stopped the development of this project because I am completing my school syllabus and other olympiad stuff.
-## I will again start this project with real antivirus that can scan virus and remove virus(if permission given for storage) some months or years later.
-## If any one needs support or to Contibute to my project contact me at my email : harshscgithub@gmail.com or harshsc2007@gmail.com
-## Message me if anyone need to contibute at above email.
-## See you soon guys !
 
+# INTRODUCING ATARBALS-ANTIVIRUS 1.0 FULLY FUNCTIONAL
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
 ## This is not a real antivirus it doesn't scan any virus. It is only UI game/prank just for entertainment purpose.
 
-# This is 2nd Beta version of Atarbals Mordern Antivirus
+# This is official main version of Atarbals antivirus. 
+# Launched on 8 November 2022 after 2 years of pause
 
 **Atarbals Modern Antivirus Releasing in late 2021**
 <p align="center">
@@ -81,3 +78,9 @@ ___
 
 ___
 🆓 Get premium for free at : https://harshscgithub.wixsite.com/home/about-4 but when version 1.1.0 is released.
+
+## Sorry Guys I have stopped the development of this project because I am completing my school syllabus and other olympiad stuff.
+## I will again start this project with real antivirus that can scan virus and remove virus(if permission given for storage) some months or years later.
+## If any one needs support or to Contibute to my project contact me at my email : harshscgithub@gmail.com or harshsc2007@gmail.com
+## Message me if anyone need to contibute at above email.
+## See you soon guys !
