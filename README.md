@@ -23,7 +23,7 @@
 ___ 
 ## Requirments to work properly
 
-1) `pip install pillow`
+1) `pip install pillow==9.0.0`
  
 2) `python -m smtpd -c DebuggingServer -n localhost:1025`
 
