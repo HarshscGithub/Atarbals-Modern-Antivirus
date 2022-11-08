@@ -5,7 +5,7 @@
 
 
 ## This is official main version of Atarbals antivirus. 
-### Launched on 8 November 2022 after 2 years of pause
+### Launched on 8 November 2022 after 1 years of pause and 2 years of patience
 
 
 <p align="center">
