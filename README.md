@@ -1,15 +1,13 @@
 
-# INTRODUCING ATARBALS-ANTIVIRUS 1.0 FULLY FUNCTIONAL
+# **INTRODUCING ATARBALS-MORDEN-ANTIVIRUS 1.0 FULLY FUNCTIONAL**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-## This is not a real antivirus it doesn't scan any virus. It is only UI game/prank just for entertainment purpose.
+## This is official main version of Atarbals antivirus. 
+### Launched on 8 November 2022 after 2 years of pause
 
-# This is official main version of Atarbals antivirus. 
-# Launched on 8 November 2022 after 2 years of pause
 
-**Atarbals Modern Antivirus Releasing in late 2021**
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/90396120/140484198-a5ea4094-42e3-4ee1-8ecb-999e0b6189cf.png" alt="logo">
   <h1 align="center" style="margin: 0 auto 0 auto;">Atarbals Mordern Antivirus</h1>
