@@ -39,8 +39,16 @@ This is whole new antivirus. This antivirus has modern UI and is written in Pyth
  <p align="right">
   <img width="500" alt="Screenshot 2021-10-29 at 3 21 50 PM" src="https://user-images.githubusercontent.com/90396120/139414871-bec599c1-4c3d-45b5-bae9-c9921d3b999b.png">
  </p>
+ 
+ ## You will recive this kind of email on registration 
+ 
+  <p align="right">
+ <img width="761" alt="Screenshot 2022-11-22 at 10 07 07 PM" src="https://user-images.githubusercontent.com/90396120/203483069-a75bba18-7540-41df-b7f1-8e57cc8a438d.png">
 
+ </p>
 ___ 
+
+
 ## 🌐 Visit my website at : https://harshscgithub.wixsite.com/home
 ___
 
