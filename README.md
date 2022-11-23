@@ -57,7 +57,7 @@ ___
 The instructions contain all the information about installing and using Tkinter Designer, along with information for troubleshooting and reporting issues. There is also a video.
 
 
-### [Watch the Video](https://youtube.com)  
+### [Watch the Video](https://www.youtube.com/watch?v=_9y_uM-HjgA)  
 
 ___
 
