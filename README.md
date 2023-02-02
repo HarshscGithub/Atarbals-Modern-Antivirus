@@ -6,7 +6,7 @@
 
 ## This is official main version of Atarbals antivirus. 
 ### Launched on 8 November 2022 after 1 years of pause and 2 years of patience
-
+**New Server On Discord** : [https://discord.gg/4RWaXKPH](https://discord.gg/4RWaXKPH)
 
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/90396120/140484198-a5ea4094-42e3-4ee1-8ecb-999e0b6189cf.png" alt="logo">
