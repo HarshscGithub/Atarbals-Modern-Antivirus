@@ -1,9 +1,11 @@
 # Project           : Atarbals 
 # Author            : Harsh Sameer Chaudhari
-# Tester and Helper : Niraj Vijay Chaudhari
+# Tester and Helper : MySelf
 # Version           : 1.0 Main Release
 # Release Date      : 
 # Note              : THIS IS NOT A REAL ANTI-VIRUS. IT IS ONLY FOR ENTERTAINMENT PORPOSE.
+# Computers         : 1) IMac 2021 M1,
+#                     2) MacBook Pro 2019, 
       
 
 try:
