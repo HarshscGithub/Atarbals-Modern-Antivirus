@@ -5,7 +5,7 @@
 
 
 ## Note:
-### In Coupple of month we will be releasing ProtecTKers V1  Antivirus which is will be Re-Named version of AtarBals with Real Antivirus Engine. And will continue supporting this Repository. And couple more month later we will introduce ProtecTaS W8 Anti-Virus with either use Qtpy or Pydesigner, so we will be discontinuing this platform of design and Tkinter. ProtecTaS W8 Will be faster and better. And it will give you nearly same experience of Mcafee, Avast Antivirus. STAY TUNDED
+### In Couple of months we will be releasing ProtecTKers V1  Antivirus which is will be Re-Named version of AtarBals with Real Antivirus Engine. And will continue supporting this Repository. And couple more month later we will introduce ProtecTaS W8 Anti-Virus with either use Qtpy or Pydesigner, so we will be discontinuing this platform of design and Tkinter. ProtecTaS W8 Will be faster and better. And it will give you nearly same experience of Mcafee, Avast Antivirus. STAY TUNDED
 
 
 ## This is official main version of Atarbals antivirus. 
@@ -89,7 +89,7 @@ ___
 ___
 🆓 Get premium for free at : https://harshscgithub.wixsite.com/home/about-4 but when version 1.1.0 is released.
 
-## Sorry Guys I have stopped the development of this project because I am completing my school syllabus and other olympiad stuff.
+## Sorry Guys, I am not giving much of my time to these projects as my Psychological and Physical Situation was not good and I have to study
 ## I will again start this project with real antivirus that can scan virus and remove virus(if permission given for storage) some months or years later.
 ## If any one needs support or to Contibute to my project contact me at my email : harshscgithub@gmail.com or harshsc2007@gmail.com
 ## Message me if anyone need to contibute at above email.
