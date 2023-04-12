@@ -1,12 +1,16 @@
 
-# **INTRODUCING ATARBALS-MORDEN-ANTIVIRUS 1.0 FULLY FUNCTIONAL**
+# **INTRODUCING ATARBALS-MORDEN-ANTIVIRUS 1.0.2.12**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
+## Note:
+### In Coupple of month we will be releasing ProtecTKers V1  Antivirus which is will be Re-Named version of AtarBals with Real Antivirus Engine. And will continue supporting this Repository. And couple more month later we will introduce ProtecTaS W8 Anti-Virus with either use Qtpy or Pydesigner, so we will be discontinuing this platform of design and Tkinter. ProtecTaS W8 Will be faster and better. And it will give you nearly same experience of Mcafee, Avast Antivirus. STAY TUNDED
+
+
 ## This is official main version of Atarbals antivirus. 
 ### Launched on 8 November 2022 after 1 years of pause and 2 years of patience
-**New Server On Discord** : [https://discord.gg/4RWaXKPH](https://discord.gg/4RWaXKPH)
+**New Server On Discord** : [**DISCORD** SERVER](https://discord.gg/4RWaXKPH)
 
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/90396120/140484198-a5ea4094-42e3-4ee1-8ecb-999e0b6189cf.png" alt="logo">
