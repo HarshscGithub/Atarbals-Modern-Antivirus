@@ -1,5 +1,5 @@
 
-# **INTRODUCING ATARBALS-MORDEN-ANTIVIRUS 1.0.2.12**
+# **INTRODUCING ProtecTKers Beta- V1.0.0**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -9,12 +9,12 @@
 
 
 ## This is official main version of Atarbals antivirus. 
-### Launched on 8 November 2022 after 1 years of pause and 2 years of patience
+### Release Date: 20 December 2023
 **New Server On Discord** : [**DISCORD** SERVER](https://discord.gg/4RWaXKPH)
 
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/90396120/140484198-a5ea4094-42e3-4ee1-8ecb-999e0b6189cf.png" alt="logo">
-  <h1 align="center" style="margin: 0 auto 0 auto;">Atarbals Mordern Antivirus</h1>
+  <h1 align="center" style="margin: 0 auto 0 auto;">ProteCTkers v1 Antivirus</h1>
 </p>
 
  <p align="center">
@@ -34,7 +34,7 @@ ___
 ## 💡 Introduction
 I am Harsh Chaudhari. I was born in 2007 in India. I started HarshscGithub project on GitHub at 9 of November 2020. I started this project with my first launch of Dashing AntiVirus in December 2021. Dashing Antivirus was basically just an idea of Ki-Lo Antivirus but I had no intention of making Ki-Lo Antivirus. But Dashing Antivirus was too poor so after Ki-Lo Antivirus 2.5 launch Dashing Antivirus was inserted in Ki-Lo Antivirus Repository. Now I have been talking about Ki-Lo Antivirus so let me tell something about it. After Dashing Antivirus Launch (Dec 2020) I went offline because of no interest in Github then came online again in 18 July 2021 because of sudden intrest in Kilo-Antivirus 1.0 then 1.5 ... last version Kilo-Antivirus 2.5. 
 
-This is whole new antivirus. This antivirus has modern UI and is written in Python 3.0 with Tkinter. This antivirus is prior to Ki-Lo antivirus 2.0. Atarbals Modern Antivirus's code is entirely re-written but it is still based on Ki-Lo Antivirus because it's too hard to change the fundamental of UI.
+This is whole new antivirus. This antivirus has modern UI and is written in Python 3.0 with Tkinter. This antivirus is prior to Ki-Lo antivirus 2.0. ProteCTKers Antivirus's code is entirely re-written but it is still based on Ki-Lo Antivirus because it's too hard to change the fundamental of UI.
 
  <p align="left">
   <img width="500" alt="Tkinter Designer GUI" src="https://user-images.githubusercontent.com/90396120/139038255-0e84b18a-b5cf-4c27-96ea-22a46d9a357b.png">      
@@ -56,7 +56,7 @@ ___
 ## 🌐 Visit my website at : https://harshscgithub.wixsite.com/home
 ___
 
-## ⚡️ Installing & Using AtarBals Mordern Antivirus
+## ⚡️ Installing & Using ProteCTkers v1 Antivirus
 
 The instructions contain all the information about installing and using Tkinter Designer, along with information for troubleshooting and reporting issues. There is also a video.
 
@@ -73,7 +73,7 @@ ___
 
 ## 📄 License
 
-**Atarbals Modern Antivirus** is licensed under the
+**ProteCTKers Antivirus** is licensed under the
 **GNU General Public License v3.0**
 
 [View Here.](https://github.com/HarshscGithub/Atarbals-Modern-Antivirus/blob/Main/LICENSE)
